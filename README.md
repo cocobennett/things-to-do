@@ -1,7 +1,7 @@
 # things-to-do
 Here are some things to do in town!
 
-- [ ] Create a branch
+- [x] Create a branch
 - [ ] Make commits on new branch
 - [ ] Open a pull request
 - [ ] Collaborate :cat:
